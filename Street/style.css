@@ -1,0 +1,340 @@
+:root{
+    --bg_rgb: #4E9F0D;
+    --fw_100: 100;
+    --fw_200: 200;
+    --fw_400: 400;
+    --fw_700: 700;
+    --fw_900: 900;
+    --col-1: calc(100% / 12 * 1);
+    --col-2: calc(100% / 12 * 2);
+    --col-3: calc(100% / 12 * 3);
+    --col-4: calc(100% / 12 * 4);
+    --col-5: calc(100% / 12 * 5);
+    --col-6: calc(100% / 12 * 6);
+    --col-7: calc(100% / 12 * 7);
+    --col-8: calc(100% / 12 * 8);
+    --col-9: calc(100% / 12 * 9);
+    --col-10: calc(100% / 12 * 10);
+    --col-11: calc(100% / 12 * 11);
+    --col-12: calc(100% / 12 * 12);
+    --color_green: #4E9F0D;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Raleway:wght@100;200;300;400;700;900&display=swap');
+
+
+.container{
+    max-width: 1140px;
+    width: 100%;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0  15px;
+    align-items:flex-start;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none ;
+    font-family: 'Raleway', 'Lato', sans-serif;
+}
+
+.j-content{
+    justify-content: space-between;
+}
+.align{align-items: s;}
+.flex-colomn{flex-direction: column;}
+header{
+    background-image:url(./bg_img\ 1.jpg);
+background-repeat: no-repeat;
+block-size: cover;
+background-position: center center;    
+
+
+
+}
+body{background-color: black;}
+header .logo{font-size: 20px;
+font-weight: 400px;
+color: white;
+background-color:  #4E9F0D;
+padding: 3px 30px 5px;
+border-radius: 3px;
+}
+header ul{width: 464px;
+display: flex;
+justify-content: space-between;
+
+
+}
+header ul a{
+    color: #4E9F0D;
+font-size: 18px;
+font-weight: 500;
+padding: 33px 20px;
+display: flex;
+
+
+}
+header ul a:hover, .active{
+background-color: #4E9F0D;
+color: aliceblue;
+transition: 1s;
+
+
+
+}
+header .active span {
+height: 20px;
+width: 20px;
+background: white;
+color: #4E9F0D;
+display: block;
+border-radius: 50%;
+text-align: center;
+margin-left: 10px;
+}
+header h1{
+
+    font-size: 72px;
+    font-weight: 900;
+margin-top: 150px;
+color: #4E9F0D;
+
+
+
+}
+header p:nth-of-type(1){
+color: #4E9F0D;
+font-weight: 400;
+font-size: 18px;
+}
+header p:nth-of-type(2){
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 30px;
+    }
+    header button{
+border: none;
+padding: 18px 83px;
+background-color: #4E9F0D;
+font-size: 30px;
+font-weight: 100;
+margin-top: 52px;
+margin-bottom: 135px;
+
+
+
+    }
+    main ul li a{
+        color: aliceblue;
+        font-size: 20px;
+        font-weight: 600;
+    margin-right: 20px;
+padding: 50px 0;
+display: block;
+
+}
+main ul li a:hover, .active2{
+    color: #4E9F0D;
+}
+main section{
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+main .saction_menu button
+    .width:100%
+    .height500px
+    .backgraund: #
+    .margin
+main .saction_menu:hover butom{
+    opacity: 0.5;
+}
+    main .saction_menu:hover :no-button
+    position :absolute
+    button: 0;
+    top:0;
+    left: 0;
+    .width:100%
+    height:100%
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+font-weight:400;
+    padding:17px 17px;
+
+{
+    main .saction_menu:hover p
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
